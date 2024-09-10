@@ -1,8 +1,8 @@
 <div>
-<img src="https://i.ibb.co/M7fgnyR/63324b52-097c-4022-9584-1b107b27d622.jpg" width="400" height="720"/>&nbsp;
-<img src="https://i.ibb.co/zJ9Lnfd/d3562a69-cdde-41c5-ac95-0cb7b0098594.jpg" width="400" height="720"/>&nbsp;
-<img src="https://i.ibb.co/7JnwTQT/a4b209c5-30c9-4f6b-9844-150737e4fc67.jpg" width="400" height="720"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/737e5b55-02a3-498c-aa06-4c9801fad332" width="400" height="720"/>&nbsp;
+  <img src="https://github.com/user-attachments/assets/c0c47f05-68bf-4fec-a1ed-abe806d21fa3" width="400" height="720"/>&nbsp;
 </div>
+
 
 ## :triangular_flag_on_post:About
 Application to search for star war heroes✨ and get brief information about them 📡 
